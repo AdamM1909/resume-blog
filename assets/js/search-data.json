@@ -59,8 +59,6 @@
   
 
   
-
-  
   
 
   
@@ -70,7 +68,7 @@
   
 
   
-      ,"page11": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://adamm1909.github.io/resume-blog/robots.txt",
