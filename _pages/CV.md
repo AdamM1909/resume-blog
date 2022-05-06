@@ -20,4 +20,3 @@ permalink: /CV/
 # Competitions 
 [Football Match Probabilty Prediction](https://www.kaggle.com/competitions/football-match-probability-prediction/overview)
 - - -
- 
