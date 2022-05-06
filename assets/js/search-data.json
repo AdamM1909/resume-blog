@@ -28,6 +28,17 @@
 
   
       ,"page1": {
+          "title": "ML CV",
+          "content": "Courses . Neural Networks and Deep Learning — Practical Deep Learning For Coders — Pratcicle Deep Learning For Coders Part 2: Deep Learning from the Foundations — . Papers . Deep Prediction of Investor Interest: A Supervised Clustering Approach — Unsupervised Data Augmentation for Consistencey Training — . Competitions . Football Match Probabilty Prediction — .",
+          "url": "https://adamm1909.github.io/resume-blog/CV/",
+          "relUrl": "/CV/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page2": {
           "title": "About Me",
           "content": "My name is Adam Myers. I’m currently a University of Manchester Therotical Physics undergraduate self-teaching the fundamentals of machine learning. I have a good mathematical stating point but most of what I cover on this blog will be new to me. . Specifically, this blog outlines how and what im learning. It includes content both designed to help people starting out and to showcase my understadning of the field. . I hope to present some sucessful Kaggle entries in the near future to showcase my progress. .",
           "url": "https://adamm1909.github.io/resume-blog/about/",
@@ -59,7 +70,7 @@
   
 
   
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://adamm1909.github.io/resume-blog/robots.txt",
