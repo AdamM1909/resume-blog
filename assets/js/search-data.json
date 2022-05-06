@@ -28,10 +28,10 @@
 
   
       ,"page1": {
-          "title": "ML CV",
-          "content": "Courses . Neural Networks and Deep Learning — Practical Deep Learning For Coders — Pratcicle Deep Learning For Coders Part 2: Deep Learning from the Foundations — . Papers . Deep Prediction of Investor Interest: A Supervised Clustering Approach — Unsupervised Data Augmentation for Consistencey Training — . Competitions . Football Match Probabilty Prediction — .",
-          "url": "https://adamm1909.github.io/resume-blog/CV/",
-          "relUrl": "/CV/",
+          "title": "",
+          "content": ". layout: page title: ML CV permalink: /CV/ . . Courses . Neural Networks and Deep Learning . . Practical Deep Learning For Coders . . Pratcicle Deep Learning For Coders Part 2: Deep Learning from the Foundations . . Papers . Deep Prediction of Investor Interest: A Supervised Clustering Approach . . Unsupervised Data Augmentation for Consistencey Training . . Competitions . Football Match Probabilty Prediction . .",
+          "url": "https://adamm1909.github.io/resume-blog/_pages/CV.html",
+          "relUrl": "/_pages/CV.html",
           "date": ""
       }
       
