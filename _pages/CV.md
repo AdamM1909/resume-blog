@@ -8,7 +8,7 @@ permalink: /CV/
 
 [Practical Deep Learning For Coders](https://course.fast.ai/)
 
-[Pratcicle Deep Learning For Coders Part 2: Deep Learning from the Foundations](https://course19.fast.ai/part2)
+Work in progress: [Pratcicle Deep Learning For Coders Part 2: Deep Learning from the Foundations](https://course19.fast.ai/part2)
 
 
 # Papers
