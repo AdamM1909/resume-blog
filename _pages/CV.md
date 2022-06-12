@@ -16,6 +16,7 @@ permalink: /CV/
 
 [Unsupervised Data Augmentation for Consistencey Training](https://arxiv.org/abs/1904.12848)
 
+[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 
 # Competitions 
 [Football Match Probabilty Prediction](https://www.kaggle.com/competitions/football-match-probability-prediction/overview)
