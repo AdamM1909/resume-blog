@@ -16,6 +16,8 @@ permalink: /CV/
 
 [Unsupervised Data Augmentation for Consistencey Training](https://arxiv.org/abs/1904.12848)
 
+[Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
 
 # Competitions 
 [Football Match Probabilty Prediction](https://www.kaggle.com/competitions/football-match-probability-prediction/overview)
